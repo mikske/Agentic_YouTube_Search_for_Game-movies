@@ -1,0 +1,5 @@
+txt
+gradio
+requests
+pandas
+huggingface_hub
