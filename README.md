@@ -48,6 +48,8 @@ Pipeline агента:
 ## Примечания
 YouTube API имеет ограничения по квоте
 
+Если что диалоговое окно открывается непосредственно в колабе, ссылку прикрепляю (там все ячейки запущены): https://colab.research.google.com/drive/17PHSHd_S0oJzbixFM4lFro3UsgLP0PCb?usp=sharing
+
 ## ⚙️ Установка
 
 ```bash
